@@ -21,7 +21,7 @@ It will acrt as unidirectional by sending signals to the devices and also capabl
 - It should Return the Status of the Alarm is OFF.
 
 # SWOT ANALYSIS
-![SWOT ANALYSIS]()
+![SWOT ANALYSIS](https://github.com/Aashishkalra19/M3_G61/blob/main/Project2_Bicom_System/1_Requirements/SWOT%20Analysis-page0001.jpg)
 
 # 5W's AND 1'H
 ![5W's and 1'H]()

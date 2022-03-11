@@ -9,16 +9,16 @@ It will acrt as unidirectional by sending signals to the devices and also capabl
 
 ## FEATURES
 * It Should Lock the car when button is pressed once.
-- It should give feedback of car lock State.
+  It should give feedback of car lock State.
 
 * It Should Unlock the Car when Button is pressed Twice.
-- It Shouls return a feedback that car Unlocked.
+  It Shouls return a feedback that car Unlocked.
 
 * It should turn the Alarm when button is pressed thrice.
-- It should return the status of the Alarm.
+  It should return the status of the Alarm.
 
 * It should turn the Alarm OFF when button pressed Four times.
-- It should Return the Status of the Alarm is OFF.
+  It should Return the Status of the Alarm is OFF.
 
 # SWOT ANALYSIS
 ![SWOT ANALYSIS](https://github.com/Aashishkalra19/M3_G61/blob/main/Project2_Bicom_System/1_Requirements/SWOT%20Analysis-page0001.jpg)

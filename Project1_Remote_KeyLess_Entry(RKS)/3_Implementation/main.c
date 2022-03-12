@@ -12,8 +12,8 @@
  * 
  */
 #include "MyStm32f407xx.h"
-#define S 1  // Defining set pin to high
-#define R 0  // Defining set pin to Low
+#define      S      1  // Defining set pin to high
+#define      R      0  // Defining set pin to Low
 
 void GPIO_Config() // GPIO_Config implemented by Vinay (PS No. 99007917)
 {

@@ -1,6 +1,9 @@
 /**
  * @file main.c
- * @author Aashish Kalra (aashish.kalra1999@gmail.com)
+ * @author Aashish Kalra (PS No: 99007918)
+ *  @author Om Gautaum (PS No: 99007921)
+ * @author Vanka Vinaya Kumar (PS No. : 99007917)
+ * @author Karthick D (Ps No : 99007919)
  * @brief 
  * @version 0.1
  * @date 2022-03-12
